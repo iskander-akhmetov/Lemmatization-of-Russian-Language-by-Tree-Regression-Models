@@ -7,6 +7,8 @@ Russian dictionary source is http://odict.ru/.
 
 The method is fully described in the article https://www.rcs.cic.ipn.mx/2020_149_3/An%20Open-Source%20Lemmatizer%20for%20Russian%20Language%20based%20on%20Tree%20Regression%20Models.pdf.
 
+Working example of the lemmatizer in the form of web-app can be found at http://isa1.pythonanywhere.com/
+
 It would be nice if you cite our article as:
 
 @ARTICLE {akhmetoviskanderkrassovitskyalexanderualiyevairinagelbukhalexandermussabayevrustam2020,
